@@ -1,0 +1,126 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+a {
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
+.logo{
+    text-transform: uppercase;
+    font-family: "Raleway",sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    padding-top: 24px;
+    color: #4d5ae5
+}
+.header-logo{
+    color: #2e2f42;
+}
+.footer-logo {
+    color: #f4f4fd;
+}
+.navigate{
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    color: #2e2f42;
+}
+.navigate:hover {
+    color: #404bbf;
+}
+.navigate:focus {
+    color: #404bbf;
+}
+.navigate:visited {
+    color: #404bbf;
+}
+.header-addres{
+    font-style: normal;
+}
+.addres-block{
+    padding-top: 24px;
+    letter-spacing: 0.32px;
+}
+.addres-block-item{
+    color: #434455;
+}
+.addres-block-item:hover{
+    color: #404bbf;
+}
+.addres-block-item:focus {
+    color: #404bbf;
+}
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-text {
+    color: #ffffff;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: 1.12px;
+    line-height: 1.07;
+}
+.hero-button {
+    background: #4D5AE5;
+    color:#FFFfff;
+    font-weight: 500;
+    letter-spacing: 0.64px;
+    line-height: 1.5;
+}
+.hero-button:hover {
+    background-color: #404BBF;
+}
+.hero-button:focus {
+    background-color: #404BBF;
+}
+.list-item{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    margin-top: 32px;
+    color: #2e2f42;
+}
+.list-text{
+    color: #434455;
+    letter-spacing: 0.32px;
+    margin-bottom: 32px;
+}
+.our-team{
+    background-color: #F4F4FD;
+
+}
+.section-head{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.item-paddind{
+    background-color: #FFFFFF;
+
+}
+.footer-style{
+    background:#2E2F42;
+}
+.footer-text{
+    color:#F4F4FD;
+    letter-spacing: 0.32px;
+}
+
+
+
