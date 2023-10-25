@@ -178,7 +178,7 @@ img{
 .list-text{
     color: #434455;
     letter-spacing: 0.32px;
-    text-align: center;
+    text-align: left;
 }
 .our-team{
     background-color: #F4F4FD;
@@ -223,7 +223,9 @@ img{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-
+}
+.portfolio-text{
+    text-align: left;
 }
 .footer-style{
     height: 312px;
@@ -239,4 +241,5 @@ img{
     display: inline-block;
     margin-bottom: 16px;
     margin-right: 0;
+    padding: 0;
 }
